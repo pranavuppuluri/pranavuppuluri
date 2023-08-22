@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Uppuluri</h1>
 <h3 align="center">I am a undergrad student of AI and ML</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
+
 - 🔭 I’m currently working on **Developing a website**
 
 - 🌱 I’m currently learning **MERN and android app development**
@@ -21,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pranav-uppuluri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-uppuluri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranav-uppuluri-2b0b33217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-uppuluri-2b0b33217" height="30" width="40" /></a>
 <a href="https://instagram.com/pranav_luri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav_luri" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/pranavuppuluri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pranavuppuluri" height="30" width="40" /></a>
 <a href="https://discord.gg/Pronow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pronow" height="30" width="40" /></a>
